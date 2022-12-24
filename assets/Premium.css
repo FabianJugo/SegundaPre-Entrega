@@ -1,0 +1,68 @@
+body{
+    background: #004643;
+    color: #fffffe;
+    font-size: 20px;
+}
+
+h1 a{
+    color: #fffffe;
+    text-decoration: none;
+    font-size: 60px;
+}
+
+.boton_sesion{
+    background-color: #f9bc60;
+    color: #001e1d;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 4px;
+    margin-left: 90%;
+}
+
+nav ul{
+    margin-left: 55%;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    background-color: #f9bc60;
+    border-radius: 3px;
+}
+
+nav ul li a{
+    color: #001e1d;
+    text-decoration: none;
+    padding: 5px;
+}
+
+section{
+    text-align: center;
+    background-color: #001e1d;
+    margin-bottom: 2%;
+    padding: 10%;
+    font-size: 25px;
+}
+
+footer{
+    background-color: #001e1d;
+    color:#fffffe;
+    padding: 5px;
+}
+
+footer ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+footer ul li a{
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 4px;
+    background-color: #e16162;
+    color: #001e1d;
+}
+
+footer p{
+    text-align: center;
+}
